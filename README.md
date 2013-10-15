@@ -2,7 +2,7 @@
 
 Ruby React JSX Compiler is a bridge to the official React JSX compiler
 
-(Please, refer to for more details: http://facebook.github.io/react/docs/getting-started.html)
+(Please, refer to http://facebook.github.io/react/docs/getting-started.html for more details)
 
 ## Installation
 
