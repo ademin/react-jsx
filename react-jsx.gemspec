@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.summary       = 'Ruby React JSX Compiler'
   s.homepage      = 'https://github.com/ademin/react-jsx'
   s.license       = 'MIT'
-  s.required_ruby_version = '>= 1.9.3'
+  s.required_ruby_version = '>= 1.8.7'
 
   s.files         = ['lib/react/jsx.rb']
 
