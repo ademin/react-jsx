@@ -33,6 +33,8 @@ or add the line below to your Gemfile:
 
 This library depends on the `react-source` gem which is updated any time a new version of React is released.
 
+(Please, refer to https://github.com/facebook/react for more details)
+
 # License
 
 Copyright &#169; 2013 Alexey Demin, MIT License (www.opensource.org/licenses/mit-license.php)
