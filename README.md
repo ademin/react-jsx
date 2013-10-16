@@ -1,4 +1,8 @@
-# Ruby React JSX Compiler [![Build Status](https://secure.travis-ci.org/ademin/react-jsx.png)](http://travis-ci.org/ademin/react-jsx) [![Code Climate](https://codeclimate.com/github/ademin/react-jsx.png)](https://codeclimate.com/github/ademin/react-jsx)
+[![Gem Version](https://badge.fury.io/rb/react-jsx.png)](http://badge.fury.io/rb/react-jsx) [![Build Status](https://secure.travis-ci.org/ademin/react-jsx.png)](http://travis-ci.org/ademin/react-jsx) [![Code Climate](https://codeclimate.com/github/ademin/react-jsx.png)](https://codeclimate.com/github/ademin/react-jsx) [![Coverage Status](https://coveralls.io/repos/ademin/react-jsx/badge.png)](https://coveralls.io/r/ademin/react-jsx) [![Dependency Status](https://gemnasium.com/ademin/react-jsx.png)](https://gemnasium.com/ademin/react-jsx)
+
+***
+
+# Ruby React JSX Compiler
 
 Ruby React JSX Compiler is a bridge to the official React JSX compiler
 
