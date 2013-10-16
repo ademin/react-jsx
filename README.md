@@ -1,4 +1,4 @@
-# Ruby React JSX Compiler
+# Ruby React JSX Compiler [![Build Status](https://secure.travis-ci.org/rtomayko/tilt.png)](http://travis-ci.org/rtomayko/tilt) 
 
 Ruby React JSX Compiler is a bridge to the official React JSX compiler
 
