@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name          = 'react-jsx'
-  s.version       = '0.6.0'
-  s.date          = '2013-10-16'
+  s.version       = '0.7.0'
+  s.date          = '2013-10-18'
   s.author        = 'Alexey Demin'
   s.email         = 'demin.alexey@inbox.ru'
   s.summary       = 'Ruby React JSX Compiler'
