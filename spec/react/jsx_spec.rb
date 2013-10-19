@@ -10,6 +10,10 @@ module React
       React::JSX.rubyracer?.should eq(ExecJS.runtime == ExecJS::Runtimes::RubyRacer)
     end
 
+    it 'should detect weather the RubyRhino is used or not' do
+      React::JSX.rubyrhino?.should eq(ExecJS.runtime == ExecJS::Runtimes::RubyRhino)
+    end
+
     it 'should return compiled JavaScript for React JSX source' do
       jsx = <<-EOF
         /** @jsx React.DOM */

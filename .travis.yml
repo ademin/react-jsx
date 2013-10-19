@@ -22,8 +22,8 @@ matrix:
     - rvm: jruby-19mode
       gemfile: .travis.gemfile.rubyracer
 
-  exclude:
+  include:
     - rvm: jruby-18mode
-      gemfile: .travis.gemfile.rubyrino
+      gemfile: .travis.gemfile.rubyrhino
     - rvm: jruby-19mode
-      gemfile: .travis.gemfile.rubyrino
+      gemfile: .travis.gemfile.rubyrhino
