@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'react-jsx'
-  s.version       = '0.7.1'
+  s.version       = '0.8.0'
   s.date          = '2013-10-19'
   s.author        = 'Alexey Demin'
   s.email         = 'demin.alexey@inbox.ru'
